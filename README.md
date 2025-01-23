@@ -2,6 +2,11 @@
 # 🤖 Ollama Chatbot
 
 Welcome to the **Ollama Chatbot**! This Python-based chatbot runs locally using the **Ollama Local API** (`http://localhost:11434/api/generate`) and the `qwen2:0.5b` model to provide fast, reliable, and offline assistance for your queries.
+![image](https://github.com/user-attachments/assets/71b8e122-7610-4401-ba2e-48b51cc65152)
+
+
+https://github.com/user-attachments/assets/fdd4d86e-d79b-4218-abd5-40df441d22c5
+
 
 ---
 
