@@ -1,6 +1,4 @@
-Here’s your emoji-packed, well-structured **README.md** for GitHub: 
 
-```markdown
 # 🤖 Ollama Chatbot
 
 Welcome to the **Ollama Chatbot**! This Python-based chatbot interacts with the **Ollama API** to assist with various queries, including code generation and casual conversations. 🚀
@@ -17,14 +15,6 @@ Welcome to the **Ollama Chatbot**! This Python-based chatbot interacts with the 
 
 ## 📋 Getting Started
 
-Follow these steps to get up and running:
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/ollama-chatbot.git
-cd ollama-chatbot
-```
 
 ### 2️⃣ Install Dependencies
 
